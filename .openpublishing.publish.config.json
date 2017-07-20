@@ -8,6 +8,7 @@
       "build_output_subfolder": "jobs",
       "locale": "en-us",
       "monikers": [],
+      "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -19,9 +20,7 @@
       "version": 0
     }
   ],
-  "notification_subscribers": [
-    "v-rukang@microsoft.com"
-  ],
+  "notification_subscribers": [],
   "branches_to_filter": [],
   "skip_source_output_uploading": false,
   "need_preview_pull_request": false,
